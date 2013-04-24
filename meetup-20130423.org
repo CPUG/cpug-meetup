@@ -11,7 +11,7 @@ It was the first meetup with the new format, the meetup is now:
 Unfortunately we forgot to record the hangout session, so no video is
 available for this first time.
 
-** Presentation of the Clojure "library" (only 44 lines ;) =keysmatic=.
+** Presentation of the Clojure "library" (only 44 lines ;) : =keysmatic=.
 
 - It's an automation tool.
 - Works by simulating keyboards events.
