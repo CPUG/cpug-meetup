@@ -1,0 +1,37 @@
+* Meetup 20130426
+
+** New meetup format and hours
+
+It was the first meetup with the new format, the meetup is now:
+- Hold at lunch time instead of the evening (12h30 - 13h30).
+- We use Google Hangout even those not present physically can participate.
+- And even those we can't participate can view the meetup afterward as
+  we record it.
+
+Unfortunately we forgot to record the hangout session, so no video is
+available for this first time.
+
+** Presentation of the Clojure "library" (only 44 lines ;-) : =keysmatic=.
+
+- It's an automation tool.
+- Works by simulating keyboards events.
+- It's using =java.awt.Robot= (from the JDK).
+- Allow to automatizing of repetitive GUI tasks.
+- Github repo comming soon (tm)
+
+We've seen an example of the usage of the lib and the code itself.
+
+** Lessons for next meetup
+
+- Organiser should open the hangout 15 minutes before the start time: Tech difficulties
+  happened (network problem, GoogleTalkPlugin problem, access rights, ...).
+- Participants should check their config and verify that audio in / out
+  is working: On this meetup, Denis was the only one with a microphone
+  working: It was a long and strange monologue ;-)
+
+** Conclusion
+
+Very nice meetup, the lunch hours are nicer than staying up late, and
+the Google Hangout is working really well.
+
+All good!
