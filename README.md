@@ -30,17 +30,13 @@
 
 - [Google Map](https://maps.google.com/maps?f=q&source=s_q&hl=en&geocode=&q=Sfeir,+192+Avenue+Charles+de+Gaulle,+Neuilly-sur-Seine,+France&aq=0&oq=sfeir&sll=37.0625,-95.677068&sspn=57.902911,135.263672&vpsrc=6&ie=UTF8&hq=Sfeir,&hnear=192+Avenue+Charles+de+Gaulle,+92200+Neuilly-sur-Seine,+Hauts-de-Seine,+%C3%8Ele-de-France,+France&ll=48.888819,2.259235&spn=0.023816,0.066047&t=m&z=15&lci=transit_comp&cid=6418185224756557461&iwloc=A)
 
-- And because there's a Google Hangout you can event participate remotely.
-
-## How do I subscribe?
-
-- [Doodle](http://www.doodle.com/rvp8iup2zt94enxc)
-- See you there soon!
+- And because there's a Google Hangout you can even participate remotely.
 
 # Previous meetups reports
 
-- [Meetup report 26 february 2013](meetup-20130226.org)
-- ...
+- [Meetup report 20130423](meetup-20130423.org)
+- [Meetup report 20130326](meetup-20130326.org)
+- [Meetup report 20130226](meetup-20130226.org)
 
 # License
 
